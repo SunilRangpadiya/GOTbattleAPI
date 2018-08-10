@@ -1,0 +1,8 @@
+{
+    "dbconnection":"<<mongo url>>",    
+    "server":
+    {
+      "port" : "8700",    
+	  "LoggingDir" : "./logs/"
+    }
+  }
